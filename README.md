@@ -1,4 +1,7 @@
-# api documentation for  [grunt-scss-lint (v0.5.0)](https://github.com/ahmednuaman/grunt-scss-lint)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-scss-lint.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-scss-lint) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-scss-lint.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-scss-lint)
+# npmdoc-grunt-scss-lint
+
+#### basic api documentation for  [grunt-scss-lint (v0.5.0)](https://github.com/ahmednuaman/grunt-scss-lint)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-scss-lint.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-scss-lint) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-scss-lint.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-scss-lint)
+
 #### Validate `.scss` files with `scss-lint`.
 
 [![NPM](https://nodei.co/npm/grunt-scss-lint.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-scss-lint)
@@ -98,7 +101,8 @@
         "codeclimate": "CODECLIMATE_REPO_TOKEN=dbf49c8de102d946c65f8195714e9d58591833be9975cd897bae0f0908c05235 codeclimate < coverage/lcov.info",
         "test": "bundle && grunt test"
     },
-    "version": "0.5.0"
+    "version": "0.5.0",
+    "bin": {}
 }
 ```
 
